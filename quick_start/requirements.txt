@@ -10,3 +10,4 @@ matplotlib==3.7.2
 pandas==2.1.2
 azure-cognitiveservices-speech
 tiktoken==0.7.0
+httpx==0.27.2
