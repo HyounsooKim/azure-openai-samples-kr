@@ -12,7 +12,7 @@ Codespace 환경을 통해서 개발 환경을 빠르게 시작할 수 있습니
 Python 실행을 위한 Runtime 환경은 `python=3.11.4` 추천합니다. 위 버튼을 누르고 약 7분이 경과되면, .devcontainer에 정의된 개발 환경 및 라이브러리 설치가 완료되며, 브라우저에 Visual Studio Code IDE가 표시됩니다.  
 
 ### 실습에 사용하는 GPT 버전
-현재 여기의 샘플은 주로 GPT-4o를 기반으로 합니다. gpt-4o의 0513 버전에서 테스트 되었습니다. OpenAI의 모델 정책에 맞추어 Chat Completion API 기반으로 실습할 수 있습니다. gpt-35-turbo (0125) 모델 또는 gpt-4o (0513) 최신 모델을 활용하는 것을 추천 드립니다. (2024-07-01 기준)
+현재 여기의 샘플은 주로 GPT-4o를 기반으로 합니다. gpt-4o 최신 버전에서 테스트 되었습니다. OpenAI의 모델 정책에 맞추어 Chat Completion API 기반으로 실습할 수 있습니다. gpt-4o-mini 모델 또는 gpt-4o 최신 모델을 활용하는 것을 추천 드립니다. (2024-12-19 기준)
 
 ### 설정하기
 >안전한 로컬 환경에서의 키관리를 위해 실습에 필요한 API Endpoint 또는 API Key는 ***.env*** 파일을 활용하는 것을 강력히 추천합니다. 예를 들어 [.env.sample](./.env.sample) 파일을 복사하여 `.env` 파일을 만들고 해당 API KEY 정보를 입력하여 사용합니다.
