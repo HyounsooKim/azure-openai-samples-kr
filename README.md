@@ -34,9 +34,11 @@ GPT(Generative Pre-trained Transformer)는 OpenAI에서 개발한 LLM(Large Lang
 ## 리소스
 다음의 순서로 GPT를 학습할 수 있습니다.
 
-- [(누구나) Prompt Engineering - 기초](http://azure.studydev.com/openai/aoai_2024_pe_01.pdf)
+- [(누구나) Prompt Engineering - 기초](http://azure.studydev.com/openai/aoai_2025_pe_01.pdf)
 
-- [(누구나) Prompt Engineering - Playground에서 놀기](http://azure.studydev.com/openai/aoai_2024_pe_02.pdf)
+- [(누구나) Prompt Engineering - Playground에서 놀기](http://azure.studydev.com/openai/aoai_2025_pe_02.pdf)
+
+- [(누구나) Prompt Engineering - RAG 만들기](http://azure.studydev.com/openai/aoai_2025_pe_03.pdf)
 
 - [(개발자) Prompt Engineering - IDE에서 개발](http://azure.studydev.com/openai/aoai_2024_pe_03.pdf)
 
