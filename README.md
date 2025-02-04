@@ -36,7 +36,7 @@ GPT(Generative Pre-trained Transformer)는 OpenAI에서 개발한 LLM(Large Lang
 
 - [(누구나) Prompt Engineering - 기초](http://azure.studydev.com/openai/aoai_2025_pe_01.pdf)
 
-- [(누구나) Prompt Engineering - Playground에서 놀기](http://azure.studydev.com/openai/aoai_2025_pe_02.pdf)
+- [(누구나) Prompt Engineering - Playground에서 놀기](http://azure.studydev.com/openai/aoai_2025_pe_02.pdf) [※ Dall-E 이미지 생성](http://azure.studydev.com/openai/prompt_dalle.pdf)
 
 - [(누구나) Prompt Engineering - RAG 만들기](http://azure.studydev.com/openai/aoai_2025_pe_03.pdf)
 
