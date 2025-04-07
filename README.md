@@ -40,6 +40,8 @@ GPT(Generative Pre-trained Transformer)는 OpenAI에서 개발한 LLM(Large Lang
 
 - [(누구나) Prompt Engineering - RAG 만들기](http://azure.studydev.com/openai/aoai_2025_pe_03.pdf)
 
+- [(누구나) Prompt Engineering - AI Agent](http://azure.studydev.com/openai/aoai_2025_pe_04.pdf)
+
 - [(개발자) Prompt Engineering - IDE에서 개발](http://azure.studydev.com/openai/aoai_2024_pe_03.pdf)
 
 - [(개발자) Prompt Engineering - Quick Start](./quick_start/): GPT 사용을 빠르게 시작할 수 있는 노트북 모음입니다.
